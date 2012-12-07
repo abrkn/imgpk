@@ -1,0 +1,17 @@
+{
+    "name": "imgpk",
+    "description": "makes one image from several images",
+    "version": "1.0.0",
+    "author": "abrkn <a@abrkn.com>",
+    "bin": {
+        "imgpk": "./bin/imgpk"
+    },
+    "main": "./lib/imgpk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abrkn/imgpk.git"
+    },
+    "dependencies": {
+        "canvas": "x"
+    }
+}
